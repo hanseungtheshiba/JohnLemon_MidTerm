@@ -37,6 +37,6 @@ __수업시간에 진행했던 부분까지 완벽하게 구현이 끝나야__ �
 ### Commit Subject란에 제목을 작성하고, Commit한 후 Push까지 완료합니다.
 ![image](https://github.com/hanseungtheshiba/JohnLemon_MidTerm/assets/8674421/c0b2e802-6685-4344-8e05-3d869014f8a7)
 ![image](https://github.com/hanseungtheshiba/JohnLemon_MidTerm/assets/8674421/8938779b-97d2-452d-809c-75038465e84a)
-### 디스코드 채널에 해당 파일을 링크해서 올리면 제출 완료.
-![image](https://github.com/hanseungtheshiba/JohnLemon_MidTerm/assets/8674421/9d47ca0d-b330-4436-8ced-1fa9c6606170)
-
+### 디스코드 채널에 본인 프로젝트의 해당 파일을 링크해서 올리면 제출 완료.
+![image](https://github.com/hanseungtheshiba/JohnLemon_MidTerm/assets/8674421/4c571e67-9e4d-4b6e-87dd-866702694b64)
+(이 링크 그대로 쓰면 내 파일이므로 주의)
