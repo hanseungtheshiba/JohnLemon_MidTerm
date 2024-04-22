@@ -23,7 +23,9 @@ __수업시간에 진행했던 부분까지 완벽하게 구현이 끝나야__ �
 ![image](https://github.com/hanseungtheshiba/JohnLemon_MidTerm/assets/8674421/5a36edd5-e88a-4b07-ac2c-290274c887cf)
 ### 프로젝트 이름은 MidTerm, 공개설정은 Public으로 두고 Create Repository를 한다. 
 ![image](https://github.com/hanseungtheshiba/JohnLemon_MidTerm/assets/8674421/cde06752-cdaf-4f58-af7b-6c8457f0317f)
-### Unity Hub에서 해당 프로젝트를 추가
+### Fork에서 방금 만든 프로젝트를 Clone합니다. (본인 프로젝트인지 확인)
+![image](https://github.com/hanseungtheshiba/JohnLemon_MidTerm/assets/8674421/74899b82-12ab-4cb9-9598-4c35e683efe0)
+### Unity Hub에서 Clone한 폴더를 찾아 해당 프로젝트를 추가
 ![image](https://github.com/hanseungtheshiba/JohnLemon_MidTerm/assets/8674421/3b79b3f9-3d17-44c8-8a93-1dff45d36582)
 ![image](https://github.com/hanseungtheshiba/JohnLemon_MidTerm/assets/8674421/acc3cb18-be27-4b37-bb91-0d4ecaac2c6a)
 ### 프로젝트가 열리면 시험 시작!
